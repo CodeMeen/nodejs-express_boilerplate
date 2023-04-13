@@ -17,10 +17,10 @@
   "license": "ISC",
   "repository": {
       "type": "git",
-      "url": "git+https://github.com/CodeMeen/nodejs-express_boilerplate.git"
+      "url": "git+https://github.com/CodeMeen/seaport_api.git"
   },
   "bugs": {
-      "url": "https://github.com/CodeMeen/nodejs-express_boilerplate/issues"
+      "url": "https://github.com/CodeMeen/seaport_api/issues"
   },
-  "homepage": "https://github.com/CodeMeen/nodejs-express_boilerplate#readme"
+  "homepage": "https://github.com/CodeMeen/seaport_api#readme"
 }
