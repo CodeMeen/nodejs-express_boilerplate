@@ -24,7 +24,7 @@ app.use(bodyParser.json());
 app.use(express.static('public'));
 
 //routes 
-app.use('/',firstroute)
+app.use('/seaport',firstroute)
 
 
 app.use(function(req, res) {
